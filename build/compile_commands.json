@@ -8,5 +8,15 @@
   "directory": "/mnt/storage/desarrollo/C/fibonachi/build",
   "command": "/usr/bin/cc -O3 -DNDEBUG -o CMakeFiles/fibonachi.dir/ArrayList.c.o -c /mnt/storage/desarrollo/C/fibonachi/ArrayList.c",
   "file": "/mnt/storage/desarrollo/C/fibonachi/ArrayList.c"
+},
+{
+  "directory": "/mnt/storage/desarrollo/C/fibonachi/build",
+  "command": "/usr/bin/cc -O3 -DNDEBUG -o CMakeFiles/fibonachi.dir/fibo.c.o -c /mnt/storage/desarrollo/C/fibonachi/fibo.c",
+  "file": "/mnt/storage/desarrollo/C/fibonachi/fibo.c"
+},
+{
+  "directory": "/mnt/storage/desarrollo/C/fibonachi/build",
+  "command": "/usr/bin/cc -O3 -DNDEBUG -o CMakeFiles/fibonachi.dir/tools.c.o -c /mnt/storage/desarrollo/C/fibonachi/tools.c",
+  "file": "/mnt/storage/desarrollo/C/fibonachi/tools.c"
 }
 ]

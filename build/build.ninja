@@ -127,6 +127,18 @@ build CMakeFiles/fibonachi.dir/ArrayList.c.o: C_COMPILER__fibonachi_Release /mnt
   OBJECT_DIR = CMakeFiles/fibonachi.dir
   OBJECT_FILE_DIR = CMakeFiles/fibonachi.dir
 
+build CMakeFiles/fibonachi.dir/fibo.c.o: C_COMPILER__fibonachi_Release /mnt/storage/desarrollo/C/fibonachi/fibo.c || cmake_object_order_depends_target_fibonachi
+  DEP_FILE = CMakeFiles/fibonachi.dir/fibo.c.o.d
+  FLAGS = -O3 -DNDEBUG
+  OBJECT_DIR = CMakeFiles/fibonachi.dir
+  OBJECT_FILE_DIR = CMakeFiles/fibonachi.dir
+
+build CMakeFiles/fibonachi.dir/tools.c.o: C_COMPILER__fibonachi_Release /mnt/storage/desarrollo/C/fibonachi/tools.c || cmake_object_order_depends_target_fibonachi
+  DEP_FILE = CMakeFiles/fibonachi.dir/tools.c.o.d
+  FLAGS = -O3 -DNDEBUG
+  OBJECT_DIR = CMakeFiles/fibonachi.dir
+  OBJECT_FILE_DIR = CMakeFiles/fibonachi.dir
+
 
 # =============================================================================
 # Link build statements for EXECUTABLE target fibonachi
@@ -135,7 +147,7 @@ build CMakeFiles/fibonachi.dir/ArrayList.c.o: C_COMPILER__fibonachi_Release /mnt
 #############################################
 # Link the executable fibonachi
 
-build fibonachi: C_EXECUTABLE_LINKER__fibonachi_Release CMakeFiles/fibonachi.dir/main.c.o CMakeFiles/fibonachi.dir/ArrayList.c.o
+build fibonachi: C_EXECUTABLE_LINKER__fibonachi_Release CMakeFiles/fibonachi.dir/main.c.o CMakeFiles/fibonachi.dir/ArrayList.c.o CMakeFiles/fibonachi.dir/fibo.c.o CMakeFiles/fibonachi.dir/tools.c.o
   FLAGS = -O3 -DNDEBUG
   LINK_FLAGS = -rdynamic
   OBJECT_DIR = CMakeFiles/fibonachi.dir
