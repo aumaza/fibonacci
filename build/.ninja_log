@@ -1,0 +1,4 @@
+# ninja log v5
+0	25	1712615695000000000	CMakeFiles/fibonachi.dir/main.c.o	85c21648e9a00a6f
+102	117	1712657494000000000	fibonachi	106e0d0c7fc8ebc
+0	102	1712657494000000000	CMakeFiles/fibonachi.dir/ArrayList.c.o	74f389692e409ebe

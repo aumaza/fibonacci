@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/mnt/storage/desarrollo/C/fibonachi/build",
+  "command": "/usr/bin/cc -O3 -DNDEBUG -o CMakeFiles/fibonachi.dir/main.c.o -c /mnt/storage/desarrollo/C/fibonachi/main.c",
+  "file": "/mnt/storage/desarrollo/C/fibonachi/main.c"
+},
+{
+  "directory": "/mnt/storage/desarrollo/C/fibonachi/build",
+  "command": "/usr/bin/cc -O3 -DNDEBUG -o CMakeFiles/fibonachi.dir/ArrayList.c.o -c /mnt/storage/desarrollo/C/fibonachi/ArrayList.c",
+  "file": "/mnt/storage/desarrollo/C/fibonachi/ArrayList.c"
+}
+]

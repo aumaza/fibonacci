@@ -1,0 +1,7 @@
+/mnt/storage/desarrollo/C/fibonachi/build/CMakeFiles/install/strip.dir
+/mnt/storage/desarrollo/C/fibonachi/build/CMakeFiles/install/local.dir
+/mnt/storage/desarrollo/C/fibonachi/build/CMakeFiles/install.dir
+/mnt/storage/desarrollo/C/fibonachi/build/CMakeFiles/list_install_components.dir
+/mnt/storage/desarrollo/C/fibonachi/build/CMakeFiles/rebuild_cache.dir
+/mnt/storage/desarrollo/C/fibonachi/build/CMakeFiles/edit_cache.dir
+/mnt/storage/desarrollo/C/fibonachi/build/CMakeFiles/fibonachi.dir
